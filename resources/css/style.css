@@ -10,17 +10,22 @@ body{
 
 h1 {
     font-family: Verdana;
+    font-weight: 300;
     font-size: 50px;
     font-style: normal;
     color: whitesmoke;
     text-align: center;
     opacity: 0.9;
+    text-transform: capitalize;
 }
 
 .secondary {
     font-size: 44px;
 }
 
+.exception {
+    text-transform: none;
+}
 
 .link {
     color: seagreen;
@@ -31,6 +36,7 @@ h2 {
     color: grey;
     font-size: 22px;
     padding: 1em;
+    font-weight: 300;
 }
 
 footer {
