@@ -14,6 +14,11 @@ h1 {
     font-style: normal;
     color: whitesmoke;
     text-align: center;
+    opacity: 0.9;
+}
+
+.secondary {
+    font-size: 44px;
 }
 
 
@@ -24,6 +29,8 @@ h1 {
 
 h2 {
     color: grey;
+    font-size: 22px;
+    padding: 1em;
 }
 
 footer {
