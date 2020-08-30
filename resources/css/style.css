@@ -2,10 +2,21 @@
     background-color: black;
 }
 
+.header {
+    display: inline;
+    max-width: 200px;
+}
+
+.container {
+    display: inline-flex;
+    flex-wrap: wrap;
+    flex-basis: auto;
+    justify-content: space-evenly;
+}
+
 body{
     text-align: center;
     font-family: Verdana, sans-serif;
-    display: block;
 }
 
 h1 {
